@@ -1,0 +1,16 @@
+{
+  "openH264Enabled": true,
+  "BACKGROUND_COLOR": "#2c2d32",
+  "offloadAdmControls": true,
+  "enableLibOpenH264Electron": false,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 967,
+    "y": 561,
+    "width": 948,
+    "height": 615
+  },
+  "enableHardwareAcceleration": false
+}

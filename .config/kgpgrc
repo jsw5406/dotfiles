@@ -1,0 +1,18 @@
+[GPG Settings]
+gpg_config_path[$e]=$HOME/.gnupg/gpg.conf
+
+[General Options]
+First run=false
+
+[MainWindow]
+1920x1200 screen: Height=1161
+1920x1200 screen: Width=956
+1920x1200 screen: XPosition=962
+1920x1200 screen: YPosition=18
+HDMI-0=HDMI-0
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA7wAAAQ4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[User Interface]
+AutoStart=true

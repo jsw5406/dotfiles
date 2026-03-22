@@ -1,0 +1,180 @@
+2026/03/21-22:07:56.739 a41 Reusing MANIFEST /home/i3/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/03/21-22:07:56.766 a41 Recovering log #252
+2026/03/21-22:07:56.769 a41 Level-0 table #255: started
+2026/03/21-22:07:56.782 a41 Level-0 table #255: 107366 bytes OK
+2026/03/21-22:07:56.792 a41 Delete type=0 #252
+2026/03/21-22:07:56.793 a42 Compacting 4@0 + 2@1 files
+2026/03/21-22:07:56.943 a42 Generated table #257@0: 40 keys, 4458459 bytes
+2026/03/21-22:07:57.092 a42 Generated table #258@0: 103 keys, 4616194 bytes
+2026/03/21-22:07:57.093 a42 Compacted 4@0 + 2@1 files => 9074653 bytes
+2026/03/21-22:07:57.118 a42 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/21-22:07:57.118 a42 Delete type=2 #255
+2026/03/21-22:07:57.118 a42 Delete type=2 #247
+2026/03/21-22:07:57.119 a42 Delete type=2 #249
+2026/03/21-22:07:57.119 a42 Delete type=2 #251
+2026/03/21-22:07:57.119 a42 Delete type=2 #253
+2026/03/21-22:07:57.119 a42 Delete type=2 #246
+2026/03/21-22:19:23.100 a42 Level-0 table #260: started
+2026/03/21-22:19:23.190 a42 Level-0 table #260: 4483065 bytes OK
+2026/03/21-22:19:23.206 a42 Delete type=0 #256
+2026/03/21-22:19:48.774 a41 Level-0 table #262: started
+2026/03/21-22:19:48.782 a41 Level-0 table #262: 117472 bytes OK
+2026/03/21-22:19:48.789 a41 Delete type=0 #259
+2026/03/21-22:32:58.083 a41 Level-0 table #264: started
+2026/03/21-22:32:58.092 a41 Level-0 table #264: 24718 bytes OK
+2026/03/21-22:32:58.098 a41 Delete type=0 #261
+2026/03/21-22:41:58.083 a42 Level-0 table #266: started
+2026/03/21-22:41:58.093 a42 Level-0 table #266: 31842 bytes OK
+2026/03/21-22:41:58.099 a42 Delete type=0 #263
+2026/03/21-22:41:58.099 a42 Compacting 4@0 + 2@1 files
+2026/03/21-22:41:58.238 a42 Generated table #267@0: 40 keys, 4460602 bytes
+2026/03/21-22:41:58.343 a42 Generated table #268@0: 104 keys, 4617264 bytes
+2026/03/21-22:41:58.344 a42 Compacted 4@0 + 2@1 files => 9077866 bytes
+2026/03/21-22:41:58.352 a42 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/21-22:41:58.352 a42 Delete type=2 #258
+2026/03/21-22:41:58.352 a42 Delete type=2 #264
+2026/03/21-22:41:58.352 a42 Delete type=2 #260
+2026/03/21-22:41:58.353 a42 Delete type=2 #262
+2026/03/21-22:41:58.353 a42 Delete type=2 #266
+2026/03/21-22:41:58.353 a42 Delete type=2 #257
+2026/03/21-22:57:58.082 a41 Level-0 table #270: started
+2026/03/21-22:57:58.089 a41 Level-0 table #270: 23558 bytes OK
+2026/03/21-22:57:58.095 a41 Delete type=0 #265
+2026/03/22-01:02:30.489 a42 Level-0 table #272: started
+2026/03/22-01:02:30.498 a42 Level-0 table #272: 114544 bytes OK
+2026/03/22-01:02:30.504 a42 Delete type=0 #269
+2026/03/22-01:31:02.170 a41 Level-0 table #274: started
+2026/03/22-01:31:02.180 a41 Level-0 table #274: 106701 bytes OK
+2026/03/22-01:31:02.185 a41 Delete type=0 #271
+2026/03/22-02:14:46.727 a41 Level-0 table #276: started
+2026/03/22-02:14:46.737 a41 Level-0 table #276: 105883 bytes OK
+2026/03/22-02:14:46.743 a41 Delete type=0 #273
+2026/03/22-02:14:46.743 a41 Compacting 4@0 + 2@1 files
+2026/03/22-02:14:46.849 a41 Generated table #277@0: 40 keys, 4458335 bytes
+2026/03/22-02:14:46.945 a41 Generated table #278@0: 104 keys, 4616567 bytes
+2026/03/22-02:14:46.946 a41 Compacted 4@0 + 2@1 files => 9074902 bytes
+2026/03/22-02:14:46.961 a41 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-02:14:46.961 a41 Delete type=2 #274
+2026/03/22-02:14:46.961 a41 Delete type=2 #270
+2026/03/22-02:14:46.961 a41 Delete type=2 #276
+2026/03/22-02:14:46.961 a41 Delete type=2 #267
+2026/03/22-02:14:46.961 a41 Delete type=2 #272
+2026/03/22-02:14:46.961 a41 Delete type=2 #268
+2026/03/22-03:06:42.090 a41 Level-0 table #280: started
+2026/03/22-03:06:42.099 a41 Level-0 table #280: 111337 bytes OK
+2026/03/22-03:06:42.110 a41 Delete type=0 #275
+2026/03/22-03:27:19.465 a42 Level-0 table #282: started
+2026/03/22-03:27:19.537 a42 Level-0 table #282: 4454936 bytes OK
+2026/03/22-03:27:19.544 a42 Delete type=0 #279
+2026/03/22-03:29:58.309 a41 Level-0 table #284: started
+2026/03/22-03:29:58.318 a41 Level-0 table #284: 6953 bytes OK
+2026/03/22-03:29:58.324 a41 Delete type=0 #281
+2026/03/22-04:09:34.525 a41 Level-0 table #286: started
+2026/03/22-04:09:34.534 a41 Level-0 table #286: 9591 bytes OK
+2026/03/22-04:09:34.540 a41 Delete type=0 #283
+2026/03/22-04:09:34.540 a41 Compacting 4@0 + 2@1 files
+2026/03/22-04:09:34.651 a41 Generated table #287@0: 40 keys, 4460532 bytes
+2026/03/22-04:09:34.746 a41 Generated table #288@0: 104 keys, 4617244 bytes
+2026/03/22-04:09:34.747 a41 Compacted 4@0 + 2@1 files => 9077776 bytes
+2026/03/22-04:09:34.753 a41 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-04:09:34.753 a41 Delete type=2 #286
+2026/03/22-04:09:34.753 a41 Delete type=2 #280
+2026/03/22-04:09:34.753 a41 Delete type=2 #284
+2026/03/22-04:09:34.753 a41 Delete type=2 #282
+2026/03/22-04:09:34.753 a41 Delete type=2 #278
+2026/03/22-04:09:34.753 a41 Delete type=2 #277
+2026/03/22-04:11:52.613 a41 Level-0 table #290: started
+2026/03/22-04:11:52.626 a41 Level-0 table #290: 6708 bytes OK
+2026/03/22-04:11:52.633 a41 Delete type=0 #285
+2026/03/22-04:52:48.056 a41 Level-0 table #292: started
+2026/03/22-04:52:48.135 a41 Level-0 table #292: 4457665 bytes OK
+2026/03/22-04:52:48.147 a41 Delete type=0 #289
+2026/03/22-05:33:34.972 a41 Level-0 table #294: started
+2026/03/22-05:33:35.051 a41 Level-0 table #294: 4456847 bytes OK
+2026/03/22-05:33:35.065 a41 Delete type=0 #291
+2026/03/22-05:36:13.345 a42 Level-0 table #296: started
+2026/03/22-05:36:13.351 a42 Level-0 table #296: 6799 bytes OK
+2026/03/22-05:36:13.357 a42 Delete type=0 #293
+2026/03/22-05:36:13.357 a42 Compacting 4@0 + 2@1 files
+2026/03/22-05:36:13.523 a42 Generated table #297@0: 40 keys, 4461694 bytes
+2026/03/22-05:36:13.619 a42 Generated table #298@0: 104 keys, 4617232 bytes
+2026/03/22-05:36:13.620 a42 Compacted 4@0 + 2@1 files => 9078926 bytes
+2026/03/22-05:36:13.625 a42 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-05:36:13.626 a42 Delete type=2 #290
+2026/03/22-05:36:13.626 a42 Delete type=2 #288
+2026/03/22-05:36:13.626 a42 Delete type=2 #287
+2026/03/22-05:36:13.626 a42 Delete type=2 #296
+2026/03/22-05:36:13.626 a42 Delete type=2 #292
+2026/03/22-05:36:13.626 a42 Delete type=2 #294
+2026/03/22-06:15:19.780 a41 Level-0 table #300: started
+2026/03/22-06:15:19.789 a41 Level-0 table #300: 39005 bytes OK
+2026/03/22-06:15:19.794 a41 Delete type=0 #295
+2026/03/22-06:17:58.533 a42 Level-0 table #302: started
+2026/03/22-06:17:58.542 a42 Level-0 table #302: 8451 bytes OK
+2026/03/22-06:17:58.554 a42 Delete type=0 #299
+2026/03/22-06:57:33.098 a41 Level-0 table #304: started
+2026/03/22-06:57:33.183 a41 Level-0 table #304: 4459131 bytes OK
+2026/03/22-06:57:33.198 a41 Delete type=0 #301
+2026/03/22-07:00:11.910 a41 Level-0 table #306: started
+2026/03/22-07:00:11.921 a41 Level-0 table #306: 6812 bytes OK
+2026/03/22-07:00:11.931 a41 Delete type=0 #303
+2026/03/22-07:00:11.931 a41 Compacting 4@0 + 2@1 files
+2026/03/22-07:00:12.074 a41 Generated table #307@0: 40 keys, 4460276 bytes
+2026/03/22-07:00:12.172 a41 Generated table #308@0: 104 keys, 4617231 bytes
+2026/03/22-07:00:12.173 a41 Compacted 4@0 + 2@1 files => 9077507 bytes
+2026/03/22-07:00:12.188 a41 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-07:00:12.189 a41 Delete type=2 #298
+2026/03/22-07:00:12.189 a41 Delete type=2 #304
+2026/03/22-07:00:12.189 a41 Delete type=2 #300
+2026/03/22-07:00:12.189 a41 Delete type=2 #302
+2026/03/22-07:00:12.189 a41 Delete type=2 #306
+2026/03/22-07:00:12.189 a41 Delete type=2 #297
+2026/03/22-07:40:26.167 a41 Level-0 table #310: started
+2026/03/22-07:40:26.249 a41 Level-0 table #310: 4457382 bytes OK
+2026/03/22-07:40:26.268 a41 Delete type=0 #305
+2026/03/22-07:43:04.631 a41 Level-0 table #312: started
+2026/03/22-07:43:04.640 a41 Level-0 table #312: 6978 bytes OK
+2026/03/22-07:43:04.654 a41 Delete type=0 #309
+2026/03/22-08:22:27.193 a41 Level-0 table #314: started
+2026/03/22-08:22:27.273 a41 Level-0 table #314: 4456155 bytes OK
+2026/03/22-08:22:27.280 a41 Delete type=0 #311
+2026/03/22-08:25:05.780 a42 Level-0 table #316: started
+2026/03/22-08:25:05.787 a42 Level-0 table #316: 6810 bytes OK
+2026/03/22-08:25:05.793 a42 Delete type=0 #313
+2026/03/22-08:25:05.793 a42 Compacting 4@0 + 2@1 files
+2026/03/22-08:25:05.942 a42 Generated table #317@0: 40 keys, 4460392 bytes
+2026/03/22-08:25:06.038 a42 Generated table #318@0: 104 keys, 4617248 bytes
+2026/03/22-08:25:06.040 a42 Compacted 4@0 + 2@1 files => 9077640 bytes
+2026/03/22-08:25:06.052 a42 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-08:25:06.052 a42 Delete type=2 #310
+2026/03/22-08:25:06.052 a42 Delete type=2 #314
+2026/03/22-08:25:06.052 a42 Delete type=2 #307
+2026/03/22-08:25:06.052 a42 Delete type=2 #308
+2026/03/22-08:25:06.052 a42 Delete type=2 #312
+2026/03/22-08:25:06.053 a42 Delete type=2 #316
+2026/03/22-09:05:25.730 a41 Level-0 table #320: started
+2026/03/22-09:05:25.744 a41 Level-0 table #320: 9194 bytes OK
+2026/03/22-09:05:25.749 a41 Delete type=0 #315
+2026/03/22-09:07:44.110 a41 Level-0 table #322: started
+2026/03/22-09:07:44.119 a41 Level-0 table #322: 6692 bytes OK
+2026/03/22-09:07:44.125 a41 Delete type=0 #319
+2026/03/22-09:47:39.098 a41 Level-0 table #324: started
+2026/03/22-09:47:39.171 a41 Level-0 table #324: 4459295 bytes OK
+2026/03/22-09:47:39.178 a41 Delete type=0 #321
+2026/03/22-09:50:07.993 a41 Level-0 table #326: started
+2026/03/22-09:50:08.002 a41 Level-0 table #326: 110572 bytes OK
+2026/03/22-09:50:08.008 a41 Delete type=0 #323
+2026/03/22-09:50:08.008 a41 Compacting 4@0 + 2@1 files
+2026/03/22-09:50:08.141 a41 Generated table #327@0: 40 keys, 4461016 bytes
+2026/03/22-09:50:08.235 a41 Generated table #328@0: 104 keys, 4617452 bytes
+2026/03/22-09:50:08.237 a41 Compacted 4@0 + 2@1 files => 9078468 bytes
+2026/03/22-09:50:08.246 a41 compacted to: files[ 0 3 0 0 0 0 0 ]
+2026/03/22-09:50:08.246 a41 Delete type=2 #317
+2026/03/22-09:50:08.247 a41 Delete type=2 #318
+2026/03/22-09:50:08.247 a41 Delete type=2 #320
+2026/03/22-09:50:08.247 a41 Delete type=2 #324
+2026/03/22-09:50:08.247 a41 Delete type=2 #326
+2026/03/22-09:50:08.247 a41 Delete type=2 #322
+2026/03/22-10:30:03.757 a41 Level-0 table #330: started
+2026/03/22-10:30:03.764 a41 Level-0 table #330: 13279 bytes OK
+2026/03/22-10:30:03.770 a41 Delete type=0 #325

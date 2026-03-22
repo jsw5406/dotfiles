@@ -1,0 +1,33 @@
+[2026-Mar-19 09:25:24.522 -05:00][ 4721: 4721][info ] Logging initialized
+[2026-Mar-19 09:31:14.808 -05:00][ 3315: 3315][info ] Logging initialized
+[2026-Mar-19 09:54:54.981 -05:00][ 3286: 3286][info ] Logging initialized
+[2026-Mar-19 10:02:03.257 -05:00][ 3376: 3376][info ] Logging initialized
+[2026-Mar-19 16:51:37.673 -05:00][ 4897: 4897][info ] Logging initialized
+[2026-Mar-19 17:08:40.446 -05:00][ 3492: 3492][info ] Logging initialized
+[2026-Mar-19 17:15:26.220 -05:00][ 3496: 3496][info ] Logging initialized
+[2026-Mar-19 21:02:22.709 -05:00][11323:11323][info ] Logging initialized
+[2026-Mar-19 21:55:13.655 -05:00][13662:13662][info ] Logging initialized
+[2026-Mar-19 21:59:18.214 -05:00][15844:15844][info ] Logging initialized
+[2026-Mar-19 21:59:58.504 -05:00][19153:19153][info ] Logging initialized
+[2026-Mar-19 23:00:11.551 -05:00][22596:22596][info ] Logging initialized
+[2026-Mar-20 16:15:57.472 -05:00][ 3510: 3510][info ] Logging initialized
+[2026-Mar-20 16:47:42.331 -05:00][ 3489: 3489][info ] Logging initialized
+[2026-Mar-20 17:59:59.979 -05:00][ 3411: 3411][info ] Logging initialized
+[2026-Mar-20 19:14:50.630 -05:00][11530:11530][info ] Logging initialized
+[2026-Mar-20 19:14:53.125 -05:00][11530:11769][warning] Failed to connect to Wayland display
+[2026-Mar-20 19:14:53.127 -05:00][11530:11530][info ] Logging initialized
+[2026-Mar-20 19:19:12.032 -05:00][13379:13379][info ] Logging initialized
+[2026-Mar-20 21:55:10.224 -05:00][13379:22227][warning] Failed to connect to Wayland display
+[2026-Mar-20 21:55:10.226 -05:00][13379:13379][info ] Logging initialized
+[2026-Mar-20 22:11:12.169 -05:00][ 3298: 3298][info ] Logging initialized
+[2026-Mar-21 22:07:59.895 -05:00][ 3253: 3253][info ] Logging initialized
+[2026-Mar-22 03:27:04.695 -05:00][20389:20389][info ] Logging initialized
+[2026-Mar-22 04:08:53.963 -05:00][21205:21205][info ] Logging initialized
+[2026-Mar-22 04:50:39.313 -05:00][22050:22050][info ] Logging initialized
+[2026-Mar-22 05:33:19.827 -05:00][22978:22978][info ] Logging initialized
+[2026-Mar-22 06:15:09.963 -05:00][23925:23925][info ] Logging initialized
+[2026-Mar-22 06:57:17.865 -05:00][24858:24858][info ] Logging initialized
+[2026-Mar-22 07:40:10.673 -05:00][25765:25765][info ] Logging initialized
+[2026-Mar-22 08:22:11.225 -05:00][26600:26600][info ] Logging initialized
+[2026-Mar-22 09:04:45.252 -05:00][27606:27606][info ] Logging initialized
+[2026-Mar-22 09:47:24.101 -05:00][28487:28487][info ] Logging initialized
